@@ -3,6 +3,8 @@ perl-reply docker
 
 perlのREPLであるところのReplyを使うためのDockerコンテナ
 
+純粋なReply以外にReadLineも導入済み
+
 ## 使い方
 ```
 $ docker run -it commojun/perl-reply
